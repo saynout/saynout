@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1250" height="251" alt="Image" src="https://github.com/user-attachments/assets/4f31b1f9-f725-441d-8a91-59f85470b0dd" />　
+<img width="1000" height="201" alt="Image" src="https://github.com/user-attachments/assets/4f31b1f9-f725-441d-8a91-59f85470b0dd" />　
 <p align="center">
   <a href="https://ichigotaku.straw.page">s</a>traw　<img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/a90482f4-d406-4473-a334-7abaffa0bcd1" />
  <a href="https://roridame.atabook.org">a</a>ta
