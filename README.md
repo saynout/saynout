@@ -6,7 +6,7 @@
  <a href="https://roridame.atabook.org">a</a>ta
 </p>
 <p align="center"> 
-<img width="724" height="724" alt="Image" src="https://github.com/user-attachments/assets/d486d730-7fcb-496b-b72b-b976c77233f2" /></p>
+<img width="524" height="524" alt="Image" src="https://github.com/user-attachments/assets/d486d730-7fcb-496b-b72b-b976c77233f2" /></p>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=roridame&amp;label=♰&amp;color=171314" alt=""> 
 </p>
