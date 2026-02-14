@@ -13,5 +13,4 @@
 <img src="https://komarev.com/ghpvc/?username=roridame&amp;label=♰&amp;color=171314" alt=""> 
 </p>
 <p align="center">
-<img width="99" height="57" alt="Image" src="https://github.com/user-attachments/assets/93a82ff8-818d-43df-ada2-db66502c28ad" />
-
+<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/fc6707d7-b2c5-4967-9d20-396bf8c65bb2" />
