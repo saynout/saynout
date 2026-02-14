@@ -13,7 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=roridame&amp;label=♰&amp;color=171314" alt=""> 
 </p>
 <p align="center">
-<img width="99" height="56" alt="image" src=https://64.media.tumblr.com/efa376fe873e577e2a29948dfb09f11b/08136fe14c0616a2-14/s100x200/4736bd4413deba38f580cf77db8e617b1804e6d0.gif />
+<img width="99" height="56" alt="image" src=https://64.media.tumblr.com/d110f2ed0561f0bd45f81e33d1b14c10/c7a3d09af7feea72-74/s640x960/eb87cd5f61899da1b68a066de514f0a7957e90f6.gifv/>
 
 
 
