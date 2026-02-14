@@ -2,7 +2,7 @@
 <img width="2048" height="287" alt="Image" src="https://github.com/user-attachments/assets/6a8bb7ab-b309-435b-ae9f-880aed350813" /></p>
 　
 <p align="center">
-  <a href="https://ichigotaku.straw.page">s</a>traw　<img width="25" height="25" alt="image" src=https://64.media.tumblr.com/878b14d5807ed57db4ddc005c2220864/b34e06d8da14d72d-d4/s75x75_c1/5bec87be80ad59bf0242550b60a838958c67b375.gif />　
+  <a href="https://ichigotaku.straw.page">s</a>traw　<img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/2476c927-9a1e-458a-b39f-af33104c2562" />
  <a href="https://roridame.atabook.org">a</a>ta
 </p>
 <p align="center"> 
